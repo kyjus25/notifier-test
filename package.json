@@ -1,0 +1,23 @@
+{
+  "name": "notifier-test",
+  "version": "1.0.0",
+  "description": "notifier-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyjus25/notifier-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyjus25/notifier-test/issues"
+  },
+  "homepage": "https://github.com/kyjus25/notifier-test#readme",
+  "dependencies": {
+    "express": "~4.17.1",
+    "node-notifier": "~5.4.3"
+  }
+}
